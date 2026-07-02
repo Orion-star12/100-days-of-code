@@ -1,0 +1,1 @@
+coins = ("Heads", "Tails")
